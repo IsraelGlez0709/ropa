@@ -262,6 +262,7 @@ header .titulo{
 
 .descripcion1{
     background: rgb(73, 73, 247);
+    font-family: 'Oswald', sans-serif;
     width: 30%;
     color: black;
     font-size: 17px;
