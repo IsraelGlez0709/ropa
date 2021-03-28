@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 body{
-    background: url("../Img/fondo1.png");
+    background: url("../fondo1.png");
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -110,7 +110,7 @@ header .titulo{
 
 @media(max-width: 900px){
     body{
-        background: url("../Img/image\ \(1\).png");
+        background: url("../image\ \(1\).png");
         background-size: 100%;
         background-repeat: no-repeat;
     }
